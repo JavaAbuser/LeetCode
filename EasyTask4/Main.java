@@ -1,5 +1,9 @@
 package EasyTask4;
 
+/**
+ * @author Max Steblevskiy(JavaAbuser) on 03.01.22
+ * Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed.
+ */
 public class Main {
 
     public static void main(String[] args) {
